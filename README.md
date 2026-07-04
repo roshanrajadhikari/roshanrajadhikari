@@ -25,15 +25,21 @@ I am a hands-on developer who engineers systems from the bare metal up to the us
 
 ## 🚀 Featured Repositories
 
-### 📱 [movieBookingApp](https://github.com/roshanrajadhikari/movieBookingApp)
-A native, production-ready cross-platform mobile application utilizing a serverless architecture.
-* **Core Stack:** React Native, AWS Amplify, Amazon Cognito (Identity Pools), React Navigation
-* **Key Focus:** Token-based security gating, multi-tier stack navigation paths, and offline-resilient local cache layers using `@react-native-async-storage` and `NetInfo`.
-
 ### 🌱 [IoT Smart Soil Moisture Node](https://github.com/roshanrajadhikari/iot-soil-moisture-node)
 A lean, event-driven hardware integration engineered for automated environment monitoring.
 * **Core Stack:** Raspberry Pi Pico W, MicroPython, Hardware ADC
 * **Key Focus:** Power-conscious analog sensor polling, low-level GPIO pin allocation matching native layouts, and clean codebase footprint optimized for microcontrollers.
+
+### 📡 [esp32-indoor-tracking](https://github.com/roshanrajadhikari/esp32-indoor-tracking)
+An edge-computed, localized indoor positioning system mapping real-time coordinate telemetry.
+* **Core Stack:** ESP32 (Arduino Core), PlatformIO, BLE, MQTT, WiFi
+* **Key Focus:** Log-distance path-loss signal propagation modeling, linear least-squares geometric multi-lateration, and recursive 1D Kalman state filtering for noise minimization.
+
+
+### 📱 [movieBookingApp](https://github.com/roshanrajadhikari/movieBookingApp)
+A native, production-ready cross-platform mobile application utilizing a serverless architecture.
+* **Core Stack:** React Native, AWS Amplify, Amazon Cognito (Identity Pools), React Navigation
+* **Key Focus:** Token-based security gating, multi-tier stack navigation paths, and offline-resilient local cache layers using `@react-native-async-storage` and `NetInfo`.
 
 ---
 
